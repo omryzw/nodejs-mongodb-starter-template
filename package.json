@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-mongodb-starter-template",
+  "version": "1.0.0",
+  "description": "A template that helps you quick start your backend using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "starter"
+  ],
+  "author": "Omri Marebera",
+  "license": "ISC"
+}
